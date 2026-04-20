@@ -1,4 +1,5 @@
 import unittest
+from roots import sq_num
 
 class SmokeTest(unittest.TestCase):
     def test2_and2(self):
